@@ -2,3 +2,4 @@ recordings
 node_modules
 local.env
 dist
+.DS_Store
